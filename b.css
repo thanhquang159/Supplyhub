@@ -1,0 +1,28 @@
+@media all and (max-width: 320px){
+    .abc{
+        margin-left: 10px;
+        margin-top: 2px;
+    }
+    
+    .xyz{
+        border: 1px solid rgb(248, 63, 63);
+    }
+    
+    .def {
+        display: inline-block;
+        width: 98%;
+        height: 14%;
+        border: 2px solid red;
+        line-height: 35px;
+        text-align: center
+    }
+    .outline-text{
+        color: white;
+        text-shadow: 
+            -2px -1px 0 #000,  
+            2px -1px 0 #000,
+            -1px 1px 0 #000,
+            1px 1px 0 #000;;
+    }
+    
+}
